@@ -145,7 +145,7 @@ App::uses('Log', 'Model');
  * Static Configs *
  ******************/
 
-date_default_timezone_set('America/Sao_Paulo');
+date_default_timezone_set('Europe/Dublin');
 
 Configure::write('Error', array(
   'handler' => 'ErrorHandler::handleError',

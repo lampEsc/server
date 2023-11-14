@@ -1,8 +1,8 @@
 <br>
-<strong>Atenção: </strong>Para ser corretamente corrigido, seu código, se entregue em um único arquivo .java:
+<strong>Attention:</strong>To be correctly corrected, your code must be delivered in a single .java file:
 <ul>
-    <li>não pode definir um pacote específico;</li>
-    <li>não pode definir nenhuma classe pública;</li>
-    <li>deve, obrigatoriamente, definir uma classe <strong>"Main"</strong> com o método "main" que será chamado para começar a execução.</li>
+     <li>cannot define a specific package;</li>
+     <li>cannot define any public class;</li>
+     <li>must, obligatorily, define a class <strong>"Main"</strong> with the "main" method that will be called to start execution.</li>
 </ul>
-Isso ocorre pelas características da linguagem Java, se você tem alguma dúvida, entre em contato com support@run.codes.
+This is due to the characteristics of the Java language, if you have any questions, please contact support@run.codes.

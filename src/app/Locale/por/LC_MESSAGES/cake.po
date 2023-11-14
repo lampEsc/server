@@ -17,16 +17,16 @@ msgstr ""
 #: View/Errors/error400.ctp:22
 #: View/Errors/error500.ctp:22
 msgid "Error"
-msgstr "Erro"
+msgstr "Error"
 
 #: View/Errors/error400.ctp:24
 msgid "The requested address %s was not found on this server."
-msgstr "A URL buscada %s não foi encontrada"
+msgstr "The requested address %s was not found on this server."
 
 #: View/Errors/error500.ctp:23
 #: Error/ExceptionRenderer.php:234
 msgid "An Internal Error Has Occurred."
-msgstr "Um erro interno aconteceu"
+msgstr "An Internal Error Has Occurred."
 
 #: Controller/Scaffold.php:130
 msgid "Scaffold :: "
@@ -34,15 +34,15 @@ msgstr ""
 
 #: Controller/Scaffold.php:169;236;305
 msgid "Invalid %s"
-msgstr "%s Inválido"
+msgstr "Invalid %s"
 
 #: Controller/Scaffold.php:224
 msgid "updated"
-msgstr "atualizado"
+msgstr "updated"
 
 #: Controller/Scaffold.php:227
 msgid "saved"
-msgstr "salvo"
+msgstr "saved"
 
 #: Controller/Scaffold.php:247
 msgid "The %1$s has been %2$s"
@@ -50,7 +50,7 @@ msgstr ""
 
 #: Controller/Scaffold.php:257
 msgid "Please correct errors below."
-msgstr "Por favor, corrija os erros abaixo"
+msgstr "Please correct errors below."
 
 #: Controller/Scaffold.php:308
 msgid "The %1$s with id: %2$s has been deleted."
@@ -62,11 +62,11 @@ msgstr ""
 
 #: Controller/Component/AuthComponent.php:377
 msgid "You are not authorized to access that location."
-msgstr "Você não está autorizado a acessar a página buscada"
+msgstr "You are not authorized to access that location."
 
 #: Error/ExceptionRenderer.php:212
 msgid "Not Found"
-msgstr "Não Encontrado"
+msgstr "Not Found"
 
 #: Model/Validator/CakeValidationSet.php:288
 msgid "This field cannot be left blank"
@@ -74,7 +74,7 @@ msgstr ""
 
 #: Network/CakeResponse.php:1246
 msgid "The requested file was not found"
-msgstr "O arquivo requisitado não foi encontrado"
+msgstr "The requested file was not found"
 
 #: Utility/CakeNumber.php:102
 msgid "%d KB"
@@ -197,117 +197,117 @@ msgstr ""
 #: Utility/CakeTime.php:842
 msgid "%d year"
 msgid_plural "%d years"
-msgstr[0] "%d ano"
-msgstr[1] "%d anos"
+msgstr[0] "%d year"
+msgstr[1] "%d years"
 
 #: Utility/CakeTime.php:845
 msgid "%d month"
 msgid_plural "%d months"
-msgstr[0] "%d mês"
-msgstr[1] "%d meses"
+msgstr[0] "%d month"
+msgstr[1] "%d months"
 
 #: Utility/CakeTime.php:848
 msgid "%d week"
 msgid_plural "%d weeks"
-msgstr[0] "%d semana"
-msgstr[1] "%d semanas"
+msgstr[0] "%d week"
+msgstr[1] "%d weeks"
 
 #: Utility/CakeTime.php:851
 msgid "%d day"
 msgid_plural "%d days"
-msgstr[0] "%d dia"
-msgstr[1] "%d dias"
+msgstr[0] "%d day"
+msgstr[1] "%d days"
 
 #: Utility/CakeTime.php:854
 msgid "%d hour"
 msgid_plural "%d hours"
-msgstr[0] "%d hora"
-msgstr[1] "%d horas"
+msgstr[0] "%d hour"
+msgstr[1] "%d hours"
 
 #: Utility/CakeTime.php:857
 msgid "%d minute"
 msgid_plural "%d minutes"
-msgstr[0] "%d minuto"
-msgstr[1] "%d minutos"
+msgstr[0] "%d minute"
+msgstr[1] "%d minutes"
 
 #: Utility/CakeTime.php:860
 msgid "%d second"
 msgid_plural "%d seconds"
-msgstr[0] "%d segundo"
-msgstr[1] "%d segundos"
+msgstr[0] "%d second"
+msgstr[1] "%d seconds"
 
 #: View/Helper/FormHelper.php:693
 msgid "Error in field %s"
-msgstr "Erro no campo %s"
+msgstr "Error in field %s"
 
 #: View/Helper/FormHelper.php:882
 #: View/Scaffolds/form.ctp:49
 #: View/Scaffolds/index.ctp:80;95
 #: View/Scaffolds/view.ctp:67;82;193
 msgid "New %s"
-msgstr "Novo %s"
+msgstr "New %s"
 
 #: View/Helper/FormHelper.php:888
 #: View/Scaffolds/view.ctp:55;114
 msgid "Edit %s"
-msgstr "Editar %s"
+msgstr "Edit %s"
 
 #: View/Helper/FormHelper.php:1456
 msgid "empty"
-msgstr "vazio"
+msgstr "empty"
 
 #: View/Helper/FormHelper.php:1828
 #: View/Scaffolds/form.ctp:24
 msgid "Submit"
-msgstr "Enviar"
+msgstr "Submit"
 
 #: View/Helper/FormHelper.php:2745
 msgid "January"
-msgstr "Janeiro"
+msgstr "January"
 
 #: View/Helper/FormHelper.php:2746
 msgid "February"
-msgstr "Fevereiro"
+msgstr "February"
 
 #: View/Helper/FormHelper.php:2747
 msgid "March"
-msgstr "Março"
+msgstr "March"
 
 #: View/Helper/FormHelper.php:2748
 msgid "April"
-msgstr "Abril"
+msgstr "April"
 
 #: View/Helper/FormHelper.php:2749
 msgid "May"
-msgstr "Maio"
+msgstr "May"
 
 #: View/Helper/FormHelper.php:2750
 msgid "June"
-msgstr "Junho"
+msgstr "June"
 
 #: View/Helper/FormHelper.php:2751
 msgid "July"
-msgstr "Julho"
+msgstr "July"
 
 #: View/Helper/FormHelper.php:2752
 msgid "August"
-msgstr "Agosto"
+msgstr "August"
 
 #: View/Helper/FormHelper.php:2753
 msgid "September"
-msgstr "Setembro"
+msgstr "September"
 
 #: View/Helper/FormHelper.php:2754
 msgid "October"
-msgstr "Outubro"
+msgstr "October"
 
 #: View/Helper/FormHelper.php:2755
 msgid "November"
-msgstr "Novembro"
+msgstr "November"
 
 #: View/Helper/FormHelper.php:2756
 msgid "December"
-msgstr "Dezembro"
+msgstr "December"
 
 #: View/Helper/HtmlHelper.php:748
 msgid "Home"
@@ -315,57 +315,57 @@ msgstr ""
 
 #: View/Helper/PaginatorHelper.php:606
 msgid " of "
-msgstr " de "
+msgstr " of "
 
 #: View/Scaffolds/form.ctp:28
 #: View/Scaffolds/index.ctp:27;78
 #: View/Scaffolds/view.ctp:51
 msgid "Actions"
-msgstr "Ações"
+msgstr "Actions"
 
 #: View/Scaffolds/form.ctp:32
 #: View/Scaffolds/index.ctp:52
 #: View/Scaffolds/view.ctp:178
 msgid "Delete"
-msgstr "Deletar"
+msgstr "Delete"
 
 #: View/Scaffolds/form.ctp:35
 #: View/Scaffolds/index.ctp:55
 #: View/Scaffolds/view.ctp:59;181
 msgid "Are you sure you want to delete # %s?"
-msgstr "Você está certo de que quer deletar # %s?"
+msgstr "Are you sure you want to delete # %s?"
 
 #: View/Scaffolds/form.ctp:38
 msgid "List"
-msgstr "Lista"
+msgstr "List"
 
 #: View/Scaffolds/form.ctp:45
 #: View/Scaffolds/index.ctp:88
 #: View/Scaffolds/view.ctp:63;76
 msgid "List %s"
-msgstr "Lista %s"
+msgstr "List %s"
 
 #: View/Scaffolds/index.ctp:49
 #: View/Scaffolds/view.ctp:166
 msgid "View"
-msgstr "Ver"
+msgstr "View"
 
 #: View/Scaffolds/index.ctp:50
 #: View/Scaffolds/view.ctp:172
 msgid "Edit"
-msgstr "Editar"
+msgstr "Edit"
 
 #: View/Scaffolds/index.ctp:66
 msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
-msgstr "Página {:page} de {:pages}, exibindo {:current} linhas de um total de {:count}, começando no registro {:start}, terminando no registro {:end}"
+msgstr "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
 
 #: View/Scaffolds/index.ctp:71
 msgid "previous"
-msgstr "anterior"
+msgstr "previous"
 
 #: View/Scaffolds/index.ctp:73
 msgid "next"
-msgstr "próximo"
+msgstr "next"
 
 #: View/Scaffolds/view.ctp:21
 msgid "View %s"

@@ -1,2 +1,2 @@
 <p>
-Ao realizar esta submissão você garante que é o autor do(s) arquivos enviados ou detêm autorização para envio de partes da sua submissão pertencentes a terceiros. Além disso, autoriza o sistema run.codes a realizar a correção automática e a verificação de eventuais plágios. Também afirma que não está violando os Termos de Uso</p>
+By making this submission, you warrant that you are the author of the submitted files, or that you are authorized to submit portions of your submission belonging to third parties. In addition, it authorizes the run.codes system to carry out automatic correction and verification of possible plagiarism. It also states that it is not violating the Terms of Use</p>

@@ -47,7 +47,7 @@
                 <div class="span12">
                   <h1><?php echo __("about"); ?>.run.codes</h1>
                   <p class="home-about-text">
-                    run.codes é um sistema de submissão e correção automática de exercícios de programação, com suporte a diversas linguagens como Java, C/C++, R, Octave, entre outras. Apenas o run.codes fornece correção de exercícios de programação com resposta ao aluno praticamente instantânea, a validação de resultados através de complexos casos de teste, utilizando margem de erro definida ou comparação de arquivos binários e análise de plágio entre os códigos submetidos. Dessa maneira, o run.codes pode ser uma importante ferramenta para alunos e professores no aprendizado de programação. Deseja conhecer mais e saber como utilizar o run.codes em seu curso? Entre em contato pelo formulário abaixo:
+run.codes is a system for submitting and automatically correcting programming exercises, with support for several languages such as Java, C/C++, R, Octave, among others. Only run.codes provides correction of programming exercises with virtually instantaneous student response, validation of results through complex test cases, using defined margin of error or comparison of binary files and analysis of plagiarism between submitted codes. In this way, run.codes can be an important tool for students and teachers in learning programming. Do you want to know more and know how to use run.codes in your course? Contact us using the form below:
                   </p>
                 </div>
               </div>

@@ -1,8 +1,8 @@
 <p>
-Ao criar uma turma no run.codes você concorda com os seguintes termos:
+By creating a class on run.codes you agree to the following terms:
 <ul>
-    <li>O serviço do run.codes é prestado sem qualquer garantia;</li>
-    <li>O run.codes poderá ser interrompido sem aviso prévio, incluindo interrupções que possam afetar o sistema em horários próximos aos prazos de entrega dos exercícios;</li>
-    <li>O processo de correção automática é suscetível à falhas. O run.codes não será responsabilizado pelas notas notas atribuidas as submissões realizadas, sendo este valor apenas um parâmetro da correção, e que deve ser sempre validado pelos responsáveis pela disciplina.</li>
+     <li>The run.codes service is provided without any guarantee;</li>
+     <li>run.codes may be interrupted without prior notice, including interruptions that may affect the system at times close to the exercise delivery deadlines;</li>
+     <li>The automatic correction process is susceptible to failure. run.codes will not be held responsible for the grades given to the submissions made, this value being only a correction parameter, and which must always be validated by those responsible for the discipline.</li>
 </ul>
 </p>

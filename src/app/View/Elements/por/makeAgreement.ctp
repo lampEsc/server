@@ -1,8 +1,8 @@
 <br>
-<strong>Atenção: </strong>Para ser corretamente corrigido, seu código, se entregue em um único arquivo Zip/Makefile:
+<strong>Attention: </strong>To be correctly corrected, your code must be delivered in a single Zip/Makefile:
 <ul>
-    <li>deve obrigatoriamente ter um arquivo Makefile na raíz do arquivo zip;</li>
-    <li>deve conter <strong>apenas</strong> o comando de <strong>compilação</strong> na diretiva "all" (ou seja, será executado o comando "make all" para compilar o seu código);</li>
-    <li>deve conter <strong>apenas</strong> o comando de <strong>execução</strong> na diretiva "run" (ou seja, será executado o comando "make run" para execução do seu código);</li>
+     <li>there must be a Makefile file at the root of the zip file;</li>
+     <li>must contain <strong>only</strong> the <strong>compile</strong> command in the "all" directive (that is, the "make all" command will be executed to compile your code);</li> li>
+     <li>must contain <strong>only</strong> the <strong>execution</strong> command in the "run" directive (that is, the "make run" command will be executed to execute your code);</li> li>
 </ul>
-Caso seu arquivo Makefile não siga as instruções acima, seu código não será corrigido. Se você tem alguma dúvida, entre em contato com support@run.codes.
+If your Makefile does not follow the instructions above, your code will not be fixed. If you have any questions, please contact support@run.codes.

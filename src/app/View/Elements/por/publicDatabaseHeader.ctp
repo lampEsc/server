@@ -1,18 +1,18 @@
 <div class="container-fluid">
-    <div class="row">
-        <div class="col-md-12">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h3 class="panel-title">Base de dados de exercícios do run.codes BETA</h3>
-                </div>
-                <div class="panel-body">
-                    <p>Os exercícios listados na base de dados pública do run.codes foram disponibilizados por professores para que possam ser importados em qualquer disciplina. <br>
-                        Ao importar um exercício sua turma receberá uma "cópia", com o mesmo título, descrição e casos de teste do exercício original. Você terá a opção de escolher as datas de entrega e a linguagem de programação escolhida.<br>
-                        Uma vez que o exercício tenha sido importado, você poderá editar qualquer informação pertencente ao exercício. Por exemplo: modificar a descrição, editar, adicionar ou excluir casos de teste. Ele se tornará um exercício como qualquer outro que tenha sido cadastrado pelo seu usuário.<br>
-                        Esta funcionalidade esta em fase de testes, estamos a disposição se você encontrar qualquer dificuldade. Em breve disponibilizaremos uma estrutura de busca, para facilitar a organização dos exercícios. Se você deseja compartilhar exercícios de sua autoria nesta base de dados, entre em contato com support@run.codes
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
+     <div class="row">
+         <div class="col-md-12">
+             <div class="panel panel-default">
+                 <div class="panel-heading">
+                     <h3 class="panel-title">run.codes BETA Exercise Database</h3>
+                 </div>
+                 <div class="panel-body">
+                     <p>The exercises listed in the public run.codes database have been made available by teachers so that they can be imported into any subject. <br>
+                         When importing an exercise, your class will receive a "copy", with the same title, description and test cases as the original exercise. You will have the option to choose delivery dates and the chosen programming language.<br>
+                         Once the exercise has been imported, you can edit any information pertaining to the exercise. For example: modify the description, edit, add or delete test cases. It will become an exercise like any other that has been registered by your user.<br>
+                         This functionality is in the testing phase, we are available if you encounter any difficulties. We will soon provide a search structure to facilitate the organization of exercises. If you would like to share exercises of your own in this database, please contact support@run.codes
+                     </p>
+                 </div>
+             </div>
+         </div>
+     </div>
 </div>
